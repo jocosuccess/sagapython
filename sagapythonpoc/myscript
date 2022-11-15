@@ -1,0 +1,7 @@
+
+def __body():
+    print("This is the script")
+    print("dum dum")
+    print("bubblegum")
+
+    
